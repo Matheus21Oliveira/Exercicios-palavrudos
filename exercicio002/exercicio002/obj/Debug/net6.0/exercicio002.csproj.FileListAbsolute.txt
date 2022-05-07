@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\bin\Debug\net6.0\exercicio002.exe
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\bin\Debug\net6.0\exercicio002.deps.json
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\bin\Debug\net6.0\exercicio002.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\bin\Debug\net6.0\exercicio002.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\bin\Debug\net6.0\exercicio002.pdb
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\obj\Debug\net6.0\exercicio002.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\obj\Debug\net6.0\exercicio002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\obj\Debug\net6.0\exercicio002.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\obj\Debug\net6.0\exercicio002.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\obj\Debug\net6.0\exercicio002.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\obj\Debug\net6.0\exercicio002.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\obj\Debug\net6.0\refint\exercicio002.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\obj\Debug\net6.0\exercicio002.pdb
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\obj\Debug\net6.0\exercicio002.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\exercicio002\exercicio002\obj\Debug\net6.0\ref\exercicio002.dll
