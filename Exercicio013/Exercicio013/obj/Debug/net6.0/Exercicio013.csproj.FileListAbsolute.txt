@@ -1,0 +1,15 @@
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\bin\Debug\net6.0\Exercicio013.exe
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\bin\Debug\net6.0\Exercicio013.deps.json
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\bin\Debug\net6.0\Exercicio013.runtimeconfig.json
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\bin\Debug\net6.0\Exercicio013.dll
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\bin\Debug\net6.0\Exercicio013.pdb
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\obj\Debug\net6.0\Exercicio013.csproj.AssemblyReference.cache
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\obj\Debug\net6.0\Exercicio013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\obj\Debug\net6.0\Exercicio013.AssemblyInfoInputs.cache
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\obj\Debug\net6.0\Exercicio013.AssemblyInfo.cs
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\obj\Debug\net6.0\Exercicio013.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\obj\Debug\net6.0\Exercicio013.dll
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\obj\Debug\net6.0\refint\Exercicio013.dll
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\obj\Debug\net6.0\Exercicio013.pdb
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\obj\Debug\net6.0\Exercicio013.genruntimeconfig.cache
+C:\Users\Matheus Oliveira\Documents\frajolinha\exercicios-palavrudos\Exercicio013\Exercicio013\obj\Debug\net6.0\ref\Exercicio013.dll

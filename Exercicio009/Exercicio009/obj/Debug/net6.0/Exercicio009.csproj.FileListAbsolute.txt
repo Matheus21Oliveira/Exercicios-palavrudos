@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\bin\Debug\net6.0\Exercicio009.exe
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\bin\Debug\net6.0\Exercicio009.deps.json
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\bin\Debug\net6.0\Exercicio009.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\bin\Debug\net6.0\Exercicio009.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\bin\Debug\net6.0\Exercicio009.pdb
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\obj\Debug\net6.0\Exercicio009.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\obj\Debug\net6.0\Exercicio009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\obj\Debug\net6.0\Exercicio009.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\obj\Debug\net6.0\Exercicio009.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\obj\Debug\net6.0\Exercicio009.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\obj\Debug\net6.0\Exercicio009.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\obj\Debug\net6.0\refint\Exercicio009.dll
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\obj\Debug\net6.0\Exercicio009.pdb
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\obj\Debug\net6.0\Exercicio009.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\frajolinha\exercicios-palavrudos\Exercicio009\Exercicio009\obj\Debug\net6.0\ref\Exercicio009.dll
